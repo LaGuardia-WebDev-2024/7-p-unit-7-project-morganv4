@@ -1,13 +1,14 @@
 body {
-  background-color: black;
+  background-color: light blue
+    ;
   text-align: center;
-  color: white;
+  color: peach;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
+  background-image: url("https://abound.college/nursing/wp-content/uploads/sites/5/2024/03/how-to-get-into-nursing-school-dc-blog.webp");
+  background-size: 600px;
   border-radius: 30px;
   border: 1px solid rgb(255,245,227);
 }
